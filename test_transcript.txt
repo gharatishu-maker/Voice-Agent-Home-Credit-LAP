@@ -1,0 +1,79 @@
+*Transcript 1*
+
+agent: Hello! This is Cimo calling from Home Credit. May I speak with the customer, please?
+user: Yes. This is the customer you are reaching. 
+agent: I’m calling from Home Credit about a Loan Against Property offer of up to ₹75,00,000, subject to eligibility. Is this a good time to 
+user: Yes. 
+agent: speak?
+agent: What type of property do you have: residential, commercial, or industrial?
+user: It's a residential property. 
+agent: Is the property solely owned by you, or jointly owned?
+user: It's owned by me. 
+user: myself. 
+agent: Do you have the original property documents available?
+user: Yes. I have the original documents of property. 
+agent: What loan amount are you looking for?
+user: I'm looking for ten lakhs. 
+agent: Are you salaried or self-employed, and is your income received through a bank?
+user: I'm a salaried salaried person. 
+agent: Is your salary credited to a bank account?
+user: Is my salary credited to bank account? 
+agent: Yes, please confirm whether your salary is paid into your bank account.
+user: Yes. 
+agent: What’s the estimated current market value of your property?
+user: Current market value is up. Fifteen lakh. 
+agent: What loan tenure would you prefer, between 3 and 15 years?
+user: It's five years. 
+agent: You have a residential property solely owned by you, original documents available, and you’re seeking ₹10 lakh. You’re salaried with salary credited to a bank account, the property value is about ₹15 lakh, and your requested tenure is five years. Is that correct?
+user: Yes. 
+agent: You meet the initial eligibility criteria. A senior loan expert will contact you to discuss next steps and the exact interest rate. Thank you for your time.
+user: Yes. Thank you. 
+agent: Thank you for your time. Have a good 
+agent: day.
+
+
+*Transcript 2*
+
+agent: Hello! This is Cimo calling from Home Credit. May I speak with the customer, please?
+user: Yes. You are speaking with the customer. 
+agent: I’m calling from Home Credit about a Loan Against Property offer of up to ₹75 lakh, subject to eligibility. Is this a good time 
+user: Yes. 
+agent: to speak?
+agent: What type of property would you like to use—residential, commercial, or industrial?
+user: It's commercial property. 
+agent: Is the property solely owned by you or 
+user: Yeah. It's 
+agent: jointly owned?
+user: solely online. 
+agent: Do you mean the property is solely owned by 
+user: Yes. 
+agent: you?
+agent: Are the original property documents available with you?
+user: Yes. I have original documents. 
+agent: How much loan amount are you looking for?
+user: I'm looking for a file x. 
+agent: I didn’t catch the loan amount. How much would you like to borrow, up to ₹75 lakh?
+user: Ten legs. 
+agent: Could you say the loan amount again in rupees?
+user: I want ten lakhs. 
+agent: What is your occupation—salaried or self-employed?
+user: I'm self employed. 
+agent: Is your income received through a bank account rather 
+user: And it's receiving 
+agent: than only in cash?
+user: bank account. 
+agent: What’s the estimated current market value of the commercial property?
+user: It's up fifteen lakhs. 
+agent: What tenure would you prefer for the loan, between 3 and 15 years?
+user: It turns five years. 
+agent: To confirm: commercial property, sole ownership, original documents available, ₹10 lakh requested, self-employed with bank income, market value about ₹15 lakh, and a 5-year tenure. Is that correct?
+user: Yes. 
+agent: You meet the initial eligibility criteria. A senior Home Credit loan expert will contact you to discuss next steps and the exact interest rate. Thank you.
+
+*Transcript 3*
+
+agent: Hello! This is Cimo calling from Home Credit. May I speak with the customer, please?
+user: Yes. You are speaking with the customer. 
+agent: Home Credit is offering eligible customers a Loan Against Property of up to ₹75 lakh. Is your property residential, commercial, or industrial?
+user: It's agricultural property. 
+agent: I'm sorry, agricultural property isn't eligible for this loan. Thank you for your time.
